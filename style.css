@@ -3,3 +3,7 @@ form label{
     font-size: 20px;
     margin: 0 0 10px;
 }
+.copyright{
+    color: white;
+    background-color: rgba(43, 124, 43, 0.589);
+}
