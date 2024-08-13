@@ -7,3 +7,19 @@ form label{
     color: white;
     background-color: rgba(43, 124, 43, 0.589);
 }
+.enviar{
+    width: 40%;
+    padding: 15px 0;
+    background: rgb(4, 80, 4);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+.enviar:hover{
+    background: rgb(36, 245, 64);
+    transform: scale(1.2);
+}
