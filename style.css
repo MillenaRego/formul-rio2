@@ -1,11 +1,26 @@
-form label{
+body{
+    background-color: rgb(243, 242, 241);
+}
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+form{
+    margin: 40px 0;
+}
+form label, form legend{
     display: block;
     font-size: 20px;
     margin: 0 0 10px;
 }
-.copyright{
-    color: white;
-    background-color: rgba(43, 124, 43, 0.589);
+.input-padrao{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+.checkbox{
+    margin: 20px 0;
 }
 .enviar{
     width: 40%;
@@ -22,4 +37,13 @@ form label{
 .enviar:hover{
     background: rgb(36, 245, 64);
     transform: scale(1.2);
+}
+footer{
+    text-align: center;
+    padding: 40px 0;
+}
+.copyright{
+    color: rgba(22, 63, 22, 0.589);
+    font-size: 15px;
+    margin: 20px 0 0;
 }
