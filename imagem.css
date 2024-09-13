@@ -1,0 +1,17 @@
+table{
+    width: 100%;
+    border-collapse:collapse ;
+}
+table, th,td{
+border: 2px solid rgb(9, 66, 12);
+}
+
+td{
+text-align: center;
+padding: 10px;
+}
+
+img{
+    width: 100px;
+    height: auto;
+}
