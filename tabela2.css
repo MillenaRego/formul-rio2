@@ -17,3 +17,8 @@ tr:nth-child(even){
 tr:hover{
     background-color: rgb(202, 202, 202);
 } 
+h1{
+  font-family: "Fascinate Inline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
